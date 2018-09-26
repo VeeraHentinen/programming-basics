@@ -6,7 +6,8 @@ namespace IfTask3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ohjelma selvittää onko luku negatiivinen vai positiivinen sekä parillinen vai pariton.");
+            Console.WriteLine("Syötä numero");
         }
     }
 }
