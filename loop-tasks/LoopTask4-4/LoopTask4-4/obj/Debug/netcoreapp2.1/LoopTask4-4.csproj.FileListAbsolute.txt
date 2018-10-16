@@ -1,0 +1,11 @@
+C:\dev\digitrade\programming-basics\loop-tasks\LoopTask4-4\LoopTask4-4\bin\Debug\netcoreapp2.1\LoopTask4-4.deps.json
+C:\dev\digitrade\programming-basics\loop-tasks\LoopTask4-4\LoopTask4-4\bin\Debug\netcoreapp2.1\LoopTask4-4.runtimeconfig.json
+C:\dev\digitrade\programming-basics\loop-tasks\LoopTask4-4\LoopTask4-4\bin\Debug\netcoreapp2.1\LoopTask4-4.runtimeconfig.dev.json
+C:\dev\digitrade\programming-basics\loop-tasks\LoopTask4-4\LoopTask4-4\bin\Debug\netcoreapp2.1\LoopTask4-4.dll
+C:\dev\digitrade\programming-basics\loop-tasks\LoopTask4-4\LoopTask4-4\bin\Debug\netcoreapp2.1\LoopTask4-4.pdb
+C:\dev\digitrade\programming-basics\loop-tasks\LoopTask4-4\LoopTask4-4\obj\Debug\netcoreapp2.1\LoopTask4-4.csprojAssemblyReference.cache
+C:\dev\digitrade\programming-basics\loop-tasks\LoopTask4-4\LoopTask4-4\obj\Debug\netcoreapp2.1\LoopTask4-4.csproj.CoreCompileInputs.cache
+C:\dev\digitrade\programming-basics\loop-tasks\LoopTask4-4\LoopTask4-4\obj\Debug\netcoreapp2.1\LoopTask4-4.AssemblyInfoInputs.cache
+C:\dev\digitrade\programming-basics\loop-tasks\LoopTask4-4\LoopTask4-4\obj\Debug\netcoreapp2.1\LoopTask4-4.AssemblyInfo.cs
+C:\dev\digitrade\programming-basics\loop-tasks\LoopTask4-4\LoopTask4-4\obj\Debug\netcoreapp2.1\LoopTask4-4.dll
+C:\dev\digitrade\programming-basics\loop-tasks\LoopTask4-4\LoopTask4-4\obj\Debug\netcoreapp2.1\LoopTask4-4.pdb
